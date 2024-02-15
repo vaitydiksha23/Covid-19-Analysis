@@ -1,4 +1,4 @@
-## Exploratory Data ANalysis of Worldwide Covid-19 
+## Exploratory Data Analysis of Worldwide Covid-19 
 
 This project analyses the Covid infections, deaths and vaccination for the World & the UK.
 
